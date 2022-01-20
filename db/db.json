@@ -1,0 +1,192 @@
+{
+  "coresRoupas": {
+    "tShirtColors": [
+      {
+        "id": 1,
+        "tipo": "Pink"
+      },
+      {
+        "id": 2,
+        "tipo": "Black"
+      },
+      {
+        "id": 3,
+        "tipo": "Orange"
+      },
+      {
+        "id": 4,
+        "tipo": "White"
+      },
+      {
+        "id": 5,
+        "tipo": "Blue"
+      },
+      {
+        "id": 6,
+        "tipo": "Gray"
+      },
+      {
+        "id": 7,
+        "tipo": "Purple"
+      },
+      {
+        "id": 8,
+        "tipo": "Gold"
+      },
+      {
+        "id": 9,
+        "tipo": "Jeans"
+      },
+      {
+        "id": 10,
+        "tipo": "Beige"
+      }
+    ],
+    "pantsColors": [
+      {
+        "id": 1,
+        "tipo": "Pink"
+      },
+      {
+        "id": 2,
+        "tipo": "Black"
+      },
+      {
+        "id": 3,
+        "tipo": "Orange"
+      },
+      {
+        "id": 4,
+        "tipo": "White"
+      },
+      {
+        "id": 5,
+        "tipo": "Blue"
+      },
+      {
+        "id": 6,
+        "tipo": "Gray"
+      },
+      {
+        "id": 7,
+        "tipo": "Purple"
+      },
+      {
+        "id": 8,
+        "tipo": "Gold"
+      },
+      {
+        "id": 9,
+        "tipo": "Jeans"
+      },
+      {
+        "id": 10,
+        "tipo": "Beige"
+      }
+    ],
+    "accessories": [
+      {
+        "id": 1,
+        "tipo": "Neckles"
+      },
+      {
+        "id": 2,
+        "tipo": "Ring"
+      },
+      {
+        "id": 3,
+        "tipo": "Bracelet"
+      },
+      {
+        "id": 4,
+        "tipo": "Hat"
+      },
+      {
+        "id": 5,
+        "tipo": "Cap"
+      },
+      {
+        "id": 6,
+        "tipo": "Glasses"
+      },
+      {
+        "id": 7,
+        "tipo": "Mask"
+      },
+      {
+        "id": 8,
+        "tipo": "Bandana"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": 1,
+      "tipo": "Solicited"
+    },
+    {
+      "id": 2,
+      "tipo": "Waiting for approval"
+    },
+    {
+      "id": 3,
+      "tipo": "Ok"
+    }
+  ],
+  "looks": [
+    {
+      "name": "guic9",
+      "tShirtColor": "Orange",
+      "pantsColor": "Beige",
+      "accessories": [
+        "Neckles",
+        "Bandana"
+      ],
+      "status": "Solicited",
+      "id": 4
+    },
+    {
+      "name": "guic97",
+      "tShirtColor": "Black",
+      "pantsColor": "Orange",
+      "accessories": [
+        "Glasses",
+        "Bracelet",
+        "Ring",
+        "Bandana"
+      ],
+      "status": "Waiting for approval",
+      "id": 5
+    },
+    {
+      "name": "Ab",
+      "tShirtColor": "Beige",
+      "pantsColor": "Jeans",
+      "accessories": [
+        "Hat",
+        "Glasses",
+        "Bracelet"
+      ],
+      "status": "Solicitado",
+      "id": 6
+    }
+  ],
+  "questions": [
+    {
+      "quest": "How did i make the clothes order?",
+      "reply": "You just have to put the info on the boxes and click in 'criate look' to confirm.",
+      "id": 1
+    },
+    {
+      "quest": "How many looks can i create?",
+      "reply": "You can create many looks you want to. We dont have a limit for it.",
+      "id": 2
+    },
+    {
+      "reply": "No, you dont. The looks only can be maked when you're loged.",
+      "quest": "Can I make the looks without login?",
+      "id": 3
+    }
+  ],
+  "questToConfirm": []
+}
